@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Dont_Judge_A_God"
+      "password": "Dont"
     },
     "anti-afk": {
       "enabled": false,
